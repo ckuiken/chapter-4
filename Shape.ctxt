@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=sides\ length
+comment0.target=Shape(int,\ double)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Shape\n
+comment1.params=
+comment1.target=double\ calculateArea()
+comment1.text=\n\ Calculates\ the\ area\ of\ a\ polygon\ given\ A\ \=\ 1/2\ *\ apothem\ *\ perimeter\n\ @return\ \ \ \ area\ of\ a\ regualar\ polygon\ as\ a\ double\n
+comment2.params=
+comment2.target=double\ getPerimeter()
+comment2.text=\n\ Calculates\ the\ perimeter\ of\ a\ regular\ polygon\n\ @return\ returns\ the\ perimeter\ as\ a\ double\n
+comment3.params=sides\ length
+comment3.target=double\ getApothem(int,\ double)
+comment3.text=\n\ Calculates\ the\ apothem\ of\ a\ regular\ polygon\n\ @param\ length\ is\ the\ side\ of\ the\ polygon\n\ @param\ sides\ is\ the\ number\ of\ sides\ (integer)\n\ @return\ apothem-the\ apothem\ of\ a\ regular\ polygon\n
+comment4.params=sides
+comment4.target=double\ interiorAngle(int)
+comment4.text=\n\ Calculates\ the\ measure\ of\ one\ interior\ angle\ of\ a\ regular\ polygon\n\ @param\ side\ length\ of\ a\ regular\ polygon\n\ @return\ the\ measure\ (in\ degrees)\ of\ an\ interior\ angle\n
+comment5.params=sides
+comment5.target=double\ exteriorAngle(int)
+comment5.text=\n\ Calculates\ the\ measure\ of\ an\ exterior\ angle\n\ @param\ number\ of\ sides\ of\ polygon\ (int)\n\ @return\ measure\ of\ exterior\ angle\ (double)\n\ \n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Overrides\ the\ println\ method\ and\ provides\ formatted\ printing\n
+numComments=7
